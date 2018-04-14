@@ -1,2 +1,2 @@
 # homework_01
-Building a resume using html from scratch without any style sheet.
+Building a resume using html & css from scratch.
